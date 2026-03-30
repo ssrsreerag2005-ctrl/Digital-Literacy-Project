@@ -1,11 +1,11 @@
 # Digital-Literacy-Project
 
 # Student Details
-Name: Sreerag S
-Registration No.: 25MIP10110
-Branch: Int Mtech Computational & Data Science
-Year: 2025–2030
-Course Code: CSE0001
+Name: Sreerag S.
+Registration No.: 25MIP10110.
+Branch: Int Mtech Computational & Data Science.
+Year: 2025–2030.
+Course Code: CSE0001.
 
 # Project Overview
 This project is about being a Student Digital Ambassador. The goal is to help friends understand and use the world well. The project is about learning digital skills. These skills include making an online profile using the internet safely understanding digital communication and knowing about cyber threats.
