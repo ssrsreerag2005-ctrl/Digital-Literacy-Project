@@ -1,6 +1,6 @@
 # Digital-Literacy-Project
 
-Student Details
+# Student Details
 Name: Sreerag S
 Registration No.: 25MIP10110
 Branch: Int Mtech Computational & Data Science
